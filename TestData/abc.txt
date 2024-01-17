@@ -1,0 +1,4 @@
+this is simple file
+we are going to read this data
+we are writing java program
+this is is while loop

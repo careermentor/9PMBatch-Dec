@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-17T21:17:36 IST" name="Default suite" finished-at="2024-01-17T21:17:48 IST" duration-ms="12084">
+    <groups>
+    </groups>
+    <test started-at="2024-01-17T21:17:36 IST" name="Default test" finished-at="2024-01-17T21:17:48 IST" duration-ms="12084">
+      <class name="org.wipro.uo.automation.testcases.LoginTestScenario_DDF">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:36 IST" name="launchBrowser" finished-at="2024-01-17T21:17:40 IST" duration-ms="4850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateLoginFunc(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:40 IST" name="validateLoginFunc" data-provider="staticdata" finished-at="2024-01-17T21:17:41 IST" duration-ms="471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:41 IST" name="closeBrowser" finished-at="2024-01-17T21:17:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:41 IST" name="launchBrowser" finished-at="2024-01-17T21:17:44 IST" duration-ms="2718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateLoginFunc(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:44 IST" name="validateLoginFunc" data-provider="staticdata" finished-at="2024-01-17T21:17:44 IST" duration-ms="495" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:44 IST" name="closeBrowser" finished-at="2024-01-17T21:17:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:44 IST" name="launchBrowser" finished-at="2024-01-17T21:17:47 IST" duration-ms="3015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateLoginFunc(java.lang.String,java.lang.String)[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:47 IST" name="validateLoginFunc" data-provider="staticdata" finished-at="2024-01-17T21:17:48 IST" duration-ms="424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.wipro.uo.automation.testcases.LoginTestScenario_DDF@2e3967ea]" started-at="2024-01-17T21:17:48 IST" name="closeBrowser" finished-at="2024-01-17T21:17:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.wipro.uo.automation.testcases.LoginTestScenario_DDF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
